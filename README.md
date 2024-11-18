@@ -50,7 +50,3 @@ The primary goal of this project is to use machine learning models to predict pr
 
 - Integrate advanced machine learning techniques like Gradient Boosting or Random Forest for better accuracy.
 - Explore more diverse datasets to generalize findings to other real estate markets.
-
----
-
-_Feel free to explore the codebase and experiment with the models!_
